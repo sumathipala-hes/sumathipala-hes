@@ -10,9 +10,9 @@
 </div>
 
 
-<!--- snake -->
+<!--- hacker -->
 <div align="center">
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 75px></picture>
 </div>
 
 
@@ -25,19 +25,14 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- :school: I am a `4th year undergraduate` at [Department of Computer Science and Engineering in Faculty of Engineering](https://cse.mrt.ac.lk/) at [University of Moratuwa](https://uom.lk/).
+- :nerd_face: Always `learning new things`.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently working as an `Associate Software Engineer` at [Fcode Labs](https://www.fcodelabs.com/).
+<br>
 <!--Intro end-->
 
 
