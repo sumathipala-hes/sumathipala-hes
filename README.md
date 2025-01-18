@@ -31,7 +31,7 @@
 - :nerd_face: Always `learning new things`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently working as an `Associate Software Engineer` at [Fcode Labs](https://www.fcodelabs.com/).
+- :thinking: I’m currently open to work.
 <br>
 <!--Intro end-->
 
