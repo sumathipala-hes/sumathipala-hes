@@ -27,7 +27,6 @@
 <!--Intro start-->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- :school: I am a `4th year undergraduate` at [Department of Computer Science and Engineering in Faculty of Engineering](https://cse.mrt.ac.lk/) at [University of Moratuwa](https://uom.lk/).
 - :nerd_face: Always `learning new things`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
